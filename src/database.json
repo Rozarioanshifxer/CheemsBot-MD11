@@ -54,6 +54,83 @@
       "premium": false,
       "limit": 100,
       "totalLimit": 0
+    },
+    "94786802371@s.whatsapp.net": {
+      "serialNumber": "918712b61f3e80c35824b8fb1ceebe5e",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Nimesh Piyumal",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "94701205591@s.whatsapp.net": {
+      "serialNumber": "524c0fade57fe7449fa6454405681fa5",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Dinuka Bn Dinuka",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94751793061@s.whatsapp.net": {
+      "serialNumber": "a1602da47f5ed857be0732fab4a003b1",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Helindu Yethmin",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "93790425084@s.whatsapp.net": {
+      "serialNumber": "aa9ec7d1852ae637e7fd134824213004",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Mirwais Khan",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94776951106@s.whatsapp.net": {
+      "serialNumber": "9974e5967a430b8800be05fc883585b1",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Ⓜ️hd➰®️🅰️z🅰️n",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94741448360@s.whatsapp.net": {
+      "serialNumber": "6cbf45856d1a2eabf38391c48494b498",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Oshadi",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "918010219580@s.whatsapp.net": {
+      "serialNumber": "ff9c736ae789354fc42e1780c49b0676",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Dost",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
     }
   },
   "database": {},
@@ -201,6 +278,42 @@
       "anticontact": false,
       "antilink": false,
       "antilinkgc": false
+    },
+    "94786802371@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "120363322510974723@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": true,
+      "antilink": true,
+      "antilinkgc": false
     }
   },
   "game": {
@@ -263,6 +376,36 @@
         },
         "owner": {
           "nick": "Joseph Son",
+          "alias": "916909137213"
+        }
+      }
+    },
+    "94786802371@s.whatsapp.net": {
+      "totalhit": 8,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Sticker By",
+        "author": "🦄드림 가이 Xeon\n\n+916909137213"
+      },
+      "about": {
+        "bot": {
+          "nick": "Nimesh Piyumal",
+          "alias": "Cheems Bot MD V11"
+        },
+        "owner": {
+          "nick": "+91 69091 37213",
           "alias": "916909137213"
         }
       }
