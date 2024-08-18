@@ -73,7 +73,7 @@
       "badword": 0,
       "afkReason": "",
       "nick": "Dinuka Bn Dinuka",
-      "premium": "false",
+      "premium": false,
       "limit": 100,
       "totalLimit": 0
     },
@@ -117,7 +117,7 @@
       "badword": 0,
       "afkReason": "",
       "nick": "Oshadi",
-      "premium": "false",
+      "premium": false,
       "limit": 100,
       "totalLimit": 0
     },
@@ -195,6 +195,83 @@
       "afkReason": "",
       "nick": "Feel My Love🌹",
       "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94764698666@s.whatsapp.net": {
+      "serialNumber": "f4d97bb45c1d46d45f153f3fe041a1b9",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "...",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94712906026@s.whatsapp.net": {
+      "serialNumber": "c0889f9e2ca06d888b8969a586112b1f",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Senura",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94726310639@s.whatsapp.net": {
+      "serialNumber": "4cd2c93acd5d7e7804f7d480da0cb5d2",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Hasiya",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94741992018@s.whatsapp.net": {
+      "serialNumber": "15a4f4728aa0cfb94e5057153019c8fd",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "C~~~😇😇",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94715911863@s.whatsapp.net": {
+      "serialNumber": "ccb7677101e21c47ee8d325f9fbd77c2",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Dumindu",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94764809645@s.whatsapp.net": {
+      "serialNumber": "8142e201b19790ff3ab2e2c0a1976fef",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "💥👑 😉🐦‍🔥",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94752696502@s.whatsapp.net": {
+      "serialNumber": "d5a8ef29aa5a9f3c601e030b0ec15227",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "tharushika🖤💫",
+      "premium": "false",
       "limit": 100,
       "totalLimit": 0
     }
@@ -365,7 +442,7 @@
     },
     "120363322510974723@g.us": {
       "badword": false,
-      "antiforeignnum": false,
+      "antiforeignnum": true,
       "antibot": false,
       "antiviewonce": false,
       "antivirtex": false,
@@ -465,7 +542,7 @@
       }
     },
     "94786802371@s.whatsapp.net": {
-      "totalhit": 8,
+      "totalhit": 11,
       "totalError": 0,
       "online": false,
       "autosticker": false,

@@ -15,17 +15,17 @@ global.sessionid ='ur session id'
 
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: nimeshofficiallk" //ur github or insta name
+global.location = "Sri Lanka" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
+global.botname = 'Security BOT' //ur bot name
 global.ownernumber = '94786802371' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.ownername = 'Nimesh official' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "Nimesh official."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n+94786802371"
@@ -38,7 +38,7 @@ global.hituet = 0
 global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
+global.antiforeignnumber = '94' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
