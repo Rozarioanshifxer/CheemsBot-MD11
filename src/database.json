@@ -128,7 +128,73 @@
       "badword": 0,
       "afkReason": "",
       "nick": "Dost",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94771670696@s.whatsapp.net": {
+      "serialNumber": "fbcbbb8decc3fdb05677870b408a5a17",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "danushak727",
       "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "61402943145@s.whatsapp.net": {
+      "serialNumber": "006b4cc6813763d0ae52509644f45d95",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "IGOT NONAME MF",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94715165543@s.whatsapp.net": {
+      "serialNumber": "516c09575df572c9c960177a186ab2ad",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "no name",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "923351432163@s.whatsapp.net": {
+      "serialNumber": "574bee85f714531f2be279d011749e54",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Video Download Xxx",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94751438037@s.whatsapp.net": {
+      "serialNumber": "282b6b6dbe46cf60b3ccc3aef01725ed",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Fathima Farhana💖💫",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "94764148041@s.whatsapp.net": {
+      "serialNumber": "c10da174711286451120698bec4f389e",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Feel My Love🌹",
+      "premium": false,
       "limit": 100,
       "totalLimit": 0
     }
@@ -313,6 +379,24 @@
       "antidocument": false,
       "anticontact": true,
       "antilink": true,
+      "antilinkgc": false
+    },
+    "94751438037@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
       "antilinkgc": false
     }
   },
