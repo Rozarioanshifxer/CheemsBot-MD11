@@ -926,7 +926,7 @@ if (XeonTheCreator) return replygcxeon(bvl)
 			            participant: m.key.participant
 			        }
 			    })
-			XeonBotInc.sendMessage(from, {text:`\`\`\`「 GC Link Detected 」\`\`\`\n\n@${m.sender.split("@")[0]} has sent a link and successfully deleted`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m})
+			XeonBotInc.sendMessage(from, {text:`\`\`\`「 GC Link Detected 」\`\`\`\n\n@${m.sender.split("@")[0]} has sent a link and successfully deleted\n\nලින්ක් දැමීම සපූරා තහනම් 🚫`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m})
             }
         }
         if (db.data.chats[m.chat].antilink) {
@@ -944,7 +944,7 @@ if (XeonTheCreator) return replygcxeon(bvl)
 			            participant: m.key.participant
 			        }
 			    })
-			XeonBotInc.sendMessage(from, {text:`\`\`\`「 Link Detected 」\`\`\`\n\n@${m.sender.split("@")[0]} has sent a link and successfully deleted`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m})
+			XeonBotInc.sendMessage(from, {text:`\`\`\`「 Link Detected 」\`\`\`\n\n@${m.sender.split("@")[0]} has sent a link and successfully deleted\n\nලින්ක් දැමීම සපූරා තහනම් 🚫`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m})
             }
         }
         //afk

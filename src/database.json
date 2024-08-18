@@ -1,62 +1,15 @@
 {
+  "sticker": {},
+  "database": {},
+  "game": {
+    "math": []
+  },
+  "others": {
+    "vote": []
+  },
   "users": {
-    "918798308154@s.whatsapp.net": {
-      "serialNumber": "0eae1af5145d445f4e7a69739aa2e971",
-      "title": "Premium",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Oke",
-      "premium": "true",
-      "limit": 1000,
-      "totalLimit": 0
-    },
-    "919366316018@s.whatsapp.net": {
-      "serialNumber": "84a6d900b59ff9b86da982ae409f5973",
-      "title": "Premium",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Oke",
-      "premium": false,
-      "limit": 1000,
-      "totalLimit": 0
-    },
-    "916909137213@s.whatsapp.net": {
-      "serialNumber": "dd4b94deaf5a6b8f70159e605070b604",
-      "title": "Premium",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "🦄드림 가이 Xeon",
-      "premium": "true",
-      "limit": 1000,
-      "totalLimit": 0
-    },
-    "916909433995@s.whatsapp.net": {
-      "serialNumber": "23c1c18ebacbffbce24003815fcdd580",
-      "title": "Premium",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "+91 69094 33995",
-      "premium": "true",
-      "limit": 1000,
-      "totalLimit": 0
-    },
-    "918741060869@s.whatsapp.net": {
-      "serialNumber": "23028d9edcca57cbeb442eb45eb9ab92",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Ok",
-      "premium": false,
-      "limit": 100,
-      "totalLimit": 0
-    },
     "94786802371@s.whatsapp.net": {
-      "serialNumber": "918712b61f3e80c35824b8fb1ceebe5e",
+      "serialNumber": "9f9c2acf8b8e7b39689d000244a05f55",
       "title": "Premium",
       "afkTime": -1,
       "badword": 0,
@@ -66,383 +19,44 @@
       "limit": 1000,
       "totalLimit": 0
     },
-    "94701205591@s.whatsapp.net": {
-      "serialNumber": "524c0fade57fe7449fa6454405681fa5",
+    "94711799953@s.whatsapp.net": {
+      "serialNumber": "ab1cc764bcda7414c3e0e8b7b62f9a7a",
       "title": "User",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
-      "nick": "Dinuka Bn Dinuka",
+      "nick": "Vinith✊🏻",
       "premium": false,
       "limit": 100,
       "totalLimit": 0
     },
-    "94751793061@s.whatsapp.net": {
-      "serialNumber": "a1602da47f5ed857be0732fab4a003b1",
+    "94767478997@s.whatsapp.net": {
+      "serialNumber": "7eb03535f976d0bd7f3a499099cf09d7",
       "title": "User",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
-      "nick": "Helindu Yethmin",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "93790425084@s.whatsapp.net": {
-      "serialNumber": "aa9ec7d1852ae637e7fd134824213004",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Mirwais Khan",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94776951106@s.whatsapp.net": {
-      "serialNumber": "9974e5967a430b8800be05fc883585b1",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Ⓜ️hd➰®️🅰️z🅰️n",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94741448360@s.whatsapp.net": {
-      "serialNumber": "6cbf45856d1a2eabf38391c48494b498",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Oshadi",
+      "nick": "Bad",
       "premium": false,
       "limit": 100,
       "totalLimit": 0
     },
-    "918010219580@s.whatsapp.net": {
-      "serialNumber": "ff9c736ae789354fc42e1780c49b0676",
+    "94773927703@s.whatsapp.net": {
+      "serialNumber": "1038eb84451e635769bd119c1a3af3c4",
       "title": "User",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
-      "nick": "Dost",
-      "premium": false,
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94771670696@s.whatsapp.net": {
-      "serialNumber": "fbcbbb8decc3fdb05677870b408a5a17",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "danushak727",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "61402943145@s.whatsapp.net": {
-      "serialNumber": "006b4cc6813763d0ae52509644f45d95",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "IGOT NONAME MF",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94715165543@s.whatsapp.net": {
-      "serialNumber": "516c09575df572c9c960177a186ab2ad",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "no name",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "923351432163@s.whatsapp.net": {
-      "serialNumber": "574bee85f714531f2be279d011749e54",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Video Download Xxx",
-      "premium": false,
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94751438037@s.whatsapp.net": {
-      "serialNumber": "282b6b6dbe46cf60b3ccc3aef01725ed",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Fathima Farhana💖💫",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94764148041@s.whatsapp.net": {
-      "serialNumber": "c10da174711286451120698bec4f389e",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Feel My Love🌹",
-      "premium": false,
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94764698666@s.whatsapp.net": {
-      "serialNumber": "f4d97bb45c1d46d45f153f3fe041a1b9",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "...",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94712906026@s.whatsapp.net": {
-      "serialNumber": "c0889f9e2ca06d888b8969a586112b1f",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Senura",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94726310639@s.whatsapp.net": {
-      "serialNumber": "4cd2c93acd5d7e7804f7d480da0cb5d2",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Hasiya",
-      "premium": false,
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94741992018@s.whatsapp.net": {
-      "serialNumber": "15a4f4728aa0cfb94e5057153019c8fd",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "C~~~😇😇",
-      "premium": false,
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94715911863@s.whatsapp.net": {
-      "serialNumber": "ccb7677101e21c47ee8d325f9fbd77c2",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "Dumindu",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94764809645@s.whatsapp.net": {
-      "serialNumber": "8142e201b19790ff3ab2e2c0a1976fef",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "💥👑 😉🐦‍🔥",
-      "premium": "false",
-      "limit": 100,
-      "totalLimit": 0
-    },
-    "94752696502@s.whatsapp.net": {
-      "serialNumber": "d5a8ef29aa5a9f3c601e030b0ec15227",
-      "title": "User",
-      "afkTime": -1,
-      "badword": 0,
-      "afkReason": "",
-      "nick": "tharushika🖤💫",
+      "nick": "Chamod Randika 😍",
       "premium": "false",
       "limit": 100,
       "totalLimit": 0
     }
   },
-  "database": {},
   "chats": {
-    "120363047626537933@g.us": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
-    "919366316018@s.whatsapp.net": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
-    "918798308154@s.whatsapp.net": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
-    "916909137213@s.whatsapp.net": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
-    "918787789781@s.whatsapp.net": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
-    "916909433995@s.whatsapp.net": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
-    "120363181044433982@g.us": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
-    "918741060869@s.whatsapp.net": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
-    "94786802371@s.whatsapp.net": {
-      "badword": false,
-      "antiforeignnum": false,
-      "antibot": false,
-      "antiviewonce": false,
-      "antivirtex": false,
-      "antimedia": false,
-      "antiimage": false,
-      "antivideo": false,
-      "antiaudio": false,
-      "antipoll": false,
-      "antisticker": false,
-      "antilocation": false,
-      "antidocument": false,
-      "anticontact": false,
-      "antilink": false,
-      "antilinkgc": false
-    },
     "120363322510974723@g.us": {
       "badword": false,
-      "antiforeignnum": true,
+      "antiforeignnum": false,
       "antibot": false,
       "antiviewonce": false,
       "antivirtex": false,
@@ -454,11 +68,47 @@
       "antisticker": false,
       "antilocation": false,
       "antidocument": false,
-      "anticontact": true,
+      "anticontact": false,
       "antilink": true,
       "antilinkgc": false
     },
-    "94751438037@s.whatsapp.net": {
+    "94772771819@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "94786802371@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "94724599844@s.whatsapp.net": {
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
@@ -477,72 +127,9 @@
       "antilinkgc": false
     }
   },
-  "game": {
-    "math": []
-  },
   "settings": {
-    "918798308154@s.whatsapp.net": {
-      "totalhit": 432,
-      "totalError": 0,
-      "online": false,
-      "autosticker": false,
-      "autobio": false,
-      "autoread": false,
-      "autoblocknum": false,
-      "onlyindia": false,
-      "onlyindo": false,
-      "onlygrub": false,
-      "onlypc": false,
-      "autorecordtype": false,
-      "autorecord": false,
-      "autotype": false,
-      "watermark": {
-        "packname": "Sticker By",
-        "author": "🦄드림 가이 Xeon\n\n+916909137213"
-      },
-      "about": {
-        "bot": {
-          "nick": "Oke",
-          "alias": "Cheems Bot MD V10"
-        },
-        "owner": {
-          "nick": "+91 69091 37213",
-          "alias": "916909137213"
-        }
-      }
-    },
-    "916909433995@s.whatsapp.net": {
-      "totalhit": 1,
-      "totalError": 0,
-      "online": false,
-      "autosticker": false,
-      "autobio": false,
-      "autoread": false,
-      "autoblocknum": false,
-      "onlyindia": false,
-      "onlyindo": false,
-      "onlygrub": false,
-      "onlypc": false,
-      "autorecordtype": false,
-      "autorecord": false,
-      "autotype": false,
-      "watermark": {
-        "packname": "Sticker By",
-        "author": "🦄드림 가이 Xeon\n\n+916909137213"
-      },
-      "about": {
-        "bot": {
-          "nick": "+91 69094 33995",
-          "alias": "Cheems Bot MD V11"
-        },
-        "owner": {
-          "nick": "Joseph Son",
-          "alias": "916909137213"
-        }
-      }
-    },
     "94786802371@s.whatsapp.net": {
-      "totalhit": 11,
+      "totalhit": 2,
       "totalError": 0,
       "online": false,
       "autosticker": false,
@@ -558,23 +145,19 @@
       "autotype": false,
       "watermark": {
         "packname": "Sticker By",
-        "author": "🦄드림 가이 Xeon\n\n+916909137213"
+        "author": "Nimesh official"
       },
       "about": {
         "bot": {
           "nick": "Nimesh Piyumal",
-          "alias": "Cheems Bot MD V11"
+          "alias": "Security BOT"
         },
         "owner": {
-          "nick": "+91 69091 37213",
-          "alias": "916909137213"
+          "nick": "Nimesh Piyumal",
+          "alias": "94786802371"
         }
       }
     }
   },
-  "message": {},
-  "sticker": {},
-  "others": {
-    "vote": []
-  }
+  "message": {}
 }

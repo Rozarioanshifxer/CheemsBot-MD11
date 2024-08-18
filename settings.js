@@ -38,7 +38,7 @@ global.hituet = 0
 global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
-global.antiforeignnumber = '94' //set anti foreign number country code
+global.antiforeignnumber = '94,61' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
