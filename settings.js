@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: nimeshofficiallk" //ur github or insta name
-global.location = "Sri Lanka" //ur location
+global.ytname = "YT: anshif_xer" //ur yt chanel name
+global.socialm = "GitHub: Rozarioanshifxer" //ur github or insta name
+global.location = "kerala palakkad" //ur location
 
 //new
-global.botname = 'Security BOT' //ur bot name
-global.ownernumber = '94786802371' //ur owner number
-global.ownername = 'Nimesh official' //ur owner name
+global.botname = 'ʀᴏᴢᴀʀɪᴏ-xᴇʀ BOT' //ur bot name
+global.ownernumber = '916282524515' //ur owner number
+global.ownername = 'ᴀɴsʜɪғ-xᴇʀ' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.wagc = "https://whatsapp.com/channel/0029EKk1rxTQD20"
 global.themeemoji = '🪀'
-global.wm = "Nimesh official."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
-global.author = "Nimesh official"
-global.creator = "94786802371@s.whatsapp.net"
+global.wm = "ʀᴏᴢᴀʀɪᴏ-ᴀɴsʜɪғ-ᴛᴇᴀᴍ-official."
+global.botscript = 'https://github.com/Rozarioanshifxer/CheemsBot-MD11' //script link
+global.packname = "ʀᴏᴢᴀʀɪᴏ"
+global.author = "ᴀɴsʜɪғ-xᴇʀ-official"
+global.creator = "916282524515@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94786802371"] // Premium User
+global.premium = ["916282524515"] // Premium User
 global.hituet = 0
 
 //bot sett
